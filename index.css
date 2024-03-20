@@ -1,6 +1,9 @@
-.madimi-one-regular {
-    font-family: "Madimi One", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
+.sawarabi-gothic-regular {
+  font-family: "Sawarabi Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, p{
+  font-family: "Sawarabi Gothic", sans-serif;
+}
